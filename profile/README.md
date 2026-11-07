@@ -9,6 +9,6 @@
 
 <p align="center">
   <a href="https://orbitdiscuss.com">orbitdiscuss.com</a> ·
-  <a href="https://apps.apple.com/app/id6762183837">App Store</a> ·
+  <a href="https://apps.apple.com/app/id6821205401">App Store</a> ·
   <a href="mailto:hello@orbitdiscuss.com">hello@orbitdiscuss.com</a>
 </p>
